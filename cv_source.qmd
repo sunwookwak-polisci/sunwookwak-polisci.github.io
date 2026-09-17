@@ -83,9 +83,9 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 \begin{rSection}{PUBLICATIONS}
 ```
 
-1. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. 2026. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
+1. Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. 2026. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review*, 24(2): 123--162. [in Korean]
 
-2. Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. 2026. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review*, 24(2): 123--162. [in Korean]
+2. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. 2026. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
 
 3. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
 

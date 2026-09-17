@@ -22,7 +22,7 @@ format:
 2026
 :::
 ::: {.work-body}
-**Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly* 51(2): e70072. [DOI](https://doi.org/10.1111/lsq.70072)
+Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review* 24(2): 123--162. (in Korean) [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003378897)
 :::
 ::::
 
@@ -31,7 +31,7 @@ format:
 2026
 :::
 ::: {.work-body}
-Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review* 24(2): 123--162. (in Korean) [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003378897)
+**Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly* 51(2): e70072. [DOI](https://doi.org/10.1111/lsq.70072)
 :::
 ::::
 
