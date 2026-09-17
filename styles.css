@@ -1,1 +1,126 @@
-/* css styles */
+/* Site-wide: keep default Quarto/theme styling. */
+
+/* Research page: compact academic bibliography layout */
+body.research-page #quarto-document-content {
+  line-height: 1.55;
+}
+
+body.research-page #title-block-header {
+  margin-bottom: 0.4rem;
+}
+
+body.research-page .page-updated {
+  color: #5c636a;
+  font-size: 0.92rem;
+  margin: 0 0 1.4rem 0;
+}
+
+body.research-page h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid #d8dce0;
+  padding-bottom: 0.35rem;
+  margin-top: 1.85rem;
+  margin-bottom: 0.85rem;
+}
+
+body.research-page .research-interests {
+  margin: 0.15rem 0 0.4rem 0;
+  color: #2c3e50;
+}
+
+body.research-page .work-list {
+  margin: 0;
+}
+
+body.research-page .work-item {
+  display: grid;
+  grid-template-columns: 3.5rem minmax(0, 1fr);
+  column-gap: 1.15rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #eceff1;
+}
+
+body.research-page .work-item:last-child {
+  border-bottom: 0;
+}
+
+body.research-page .work-item.no-year {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+body.research-page .work-year {
+  color: #5c636a;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  line-height: 1.55;
+}
+
+body.research-page .work-body {
+  min-width: 0;
+}
+
+body.research-page .work-year p,
+body.research-page .work-body p {
+  margin-bottom: 0;
+}
+
+body.research-page .work-body p + p {
+  margin-top: 0.25rem;
+}
+
+body.research-page .work-note {
+  display: block;
+  margin-top: 0.3rem;
+  color: #5c636a;
+  font-size: 0.92rem;
+}
+
+body.research-page .work-body a {
+  font-size: 0.92em;
+  white-space: nowrap;
+}
+
+body.research-page .conf-list {
+  margin: 0.15rem 0 0.5rem 0;
+}
+
+body.research-page .conf-item {
+  padding: 0.48rem 0;
+  border-bottom: 1px solid #eceff1;
+}
+
+body.research-page .conf-item p {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1.25rem;
+  margin: 0;
+}
+
+body.research-page .conf-item:last-child {
+  border-bottom: 0;
+}
+
+body.research-page .conf-name {
+  min-width: 0;
+}
+
+body.research-page .conf-year {
+  color: #5c636a;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+  body.research-page .work-item {
+    grid-template-columns: 1fr;
+    row-gap: 0.15rem;
+  }
+
+  body.research-page .conf-item p {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+}

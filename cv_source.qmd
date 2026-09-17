@@ -85,9 +85,11 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 
 1. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. 2026. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
 
-2. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
+2. Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. 2026. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review*, 24(2): 123--162. [in Korean]
 
-3. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
+3. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
+
+4. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
 
 ```{=latex}
 \end{rSection}

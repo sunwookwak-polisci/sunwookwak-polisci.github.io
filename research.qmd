@@ -1,28 +1,128 @@
 ---
-title: "Research"
+title: Research
+format:
+  html:
+    linestretch: 1.5
+    toc: true
+    body-classes: research-page
 ---
 
-(Updated: August 16, 2026)
+<p class="page-updated">Updated September 17, 2026</p>
+
+## Research Interests
+
+<p class="research-interests">American Politics · Legislative Politics (Congress) · Elections · Public Opinion · Korean Politics</p>
 
 ## Publications
 
-1. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. 2026. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
-   - [Link](https://onlinelibrary.wiley.com/doi/10.1111/lsq.70072)
+::: {.work-list}
 
-2. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
-   - [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003197183)
+:::: {.work-item}
+::: {.work-year}
+2026
+:::
+::: {.work-body}
+**Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly* 51(2): e70072. [DOI](https://doi.org/10.1111/lsq.70072)
+:::
+::::
 
-3. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
-   - [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158367)
+:::: {.work-item}
+::: {.work-year}
+2026
+:::
+::: {.work-body}
+Kang, Sinjae, **Sunwoo Kwak**, and Eunmi Cho. "A Cosponsorship Network Analysis of Life and Safety Legislation Before and After the Sewol Ferry Disaster: Evidence from the 17th--22nd National Assemblies of Korea." *Dispute Resolution Studies Review* 24(2): 123--162. (in Korean) [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003378897)
+:::
+::::
 
-## Under Review
+:::: {.work-item}
+::: {.work-year}
+2025
+:::
+::: {.work-body}
+Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies* 17(1): 5--36. (in Korean) [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003197183)
+:::
+::::
 
+:::: {.work-item}
+::: {.work-year}
+2024
+:::
+::: {.work-body}
+Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research* 19(2): 5--42. (in Korean) [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003158367)
+:::
+::::
 
+:::
 
 ## Working Papers
 
-- "Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
+::: {.work-list}
 
-- "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
+::: {.work-item .no-year}
+::: {.work-body}
+"Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
+:::
+:::
 
-- "Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
+::: {.work-item .no-year}
+::: {.work-body}
+"Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
+
+<span class="work-note">Best Paper Award, Yonsei University Graduate Student Association Academic Support Program (November 2025)</span>
+:::
+:::
+
+::: {.work-item .no-year}
+::: {.work-body}
+"Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
+:::
+:::
+
+:::
+
+## Conference Presentations
+
+::: {.conf-list}
+
+::: {.conf-item}
+<span class="conf-name">American Political Science Association (APSA) Annual Meeting</span>
+<span class="conf-year">2025</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">Midwest Political Science Association (MPSA) Annual Conference</span>
+<span class="conf-year">2025</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">International Political Science Association (IPSA) World Congress</span>
+<span class="conf-year">2025</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">International Studies Association (ISA) Annual Convention</span>
+<span class="conf-year">2025</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">World Association for Public Opinion Research (WAPOR) Annual Conference</span>
+<span class="conf-year">2024</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">World Association for Public Opinion Research (WAPOR) Asia Pacific Annual Conference</span>
+<span class="conf-year">2025</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">Korean Political Science Association (KPSA) Annual Conference</span>
+<span class="conf-year">2023, 2024</span>
+:::
+
+::: {.conf-item}
+<span class="conf-name">Korean Political Science Association (KPSA) Summer Conference</span>
+<span class="conf-year">2024, 2025</span>
+:::
+
+:::
