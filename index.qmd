@@ -5,28 +5,15 @@ linestretch: 2
 
 ### About Me
 
-I am currently a Master's student in Political Science at **Yonsei University** (Seoul, South Korea).
+I am a political scientist studying American and Korean politics. My research interests include legislative politics (Congress), elections, and public opinion.
 
-I will be joining **Princeton University** as a Ph.D. student in the Department of Politics, starting in September 2026.
-
----
-
-
-My research interests include: 
-
-- **American Politics**
-- **Legislative Studies**
-- **Congress**
-- **Elections**
-- **Public Opinion**
-
----
+I received my M.A. in Political Science from Yonsei University in August 2026. I will be joining Princeton University as a Ph.D. student in the Department of Politics, starting in September 2027.
 
 So far, my research has been published in *[Legislative Studies Quarterly](https://doi.org/10.1111/lsq.70072)*, as well as in journals in Korean.
 
 ### CV
-- [click this link to download my CV](cv.html)
+- [click this link to view and download my CV](cv.html)
 
 ### Contacts
-- Email: [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr) or [sk2195@princeton.edu](mailto:sk2195@princeton.edu)
-- Google Scholar: [Sunwoo Kwak](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
+- Email: [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr) or [sunwookwak@gmail.com](mailto:sunwookwak@gmail.com)
+- Google Scholar: [Sunwoo Kwak's Profile](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)

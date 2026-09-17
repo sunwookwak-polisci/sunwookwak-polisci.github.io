@@ -4,6 +4,7 @@ format:
   pdf:
     documentclass: resume
     keep-tex: false
+    mainfont: TeX Gyre Pagella
     include-in-header:
       - text: |
           \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.75in]{geometry}
@@ -18,41 +19,60 @@ format:
           \renewcommand{\headrulewidth}{0pt}
           \renewcommand{\footrulewidth}{0pt}
           \setlength{\footskip}{30pt}
-          \renewcommand{\familydefault}{\sfdefault}
           \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
           \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+          \makeatletter
+          \renewcommand{\printname}{%
+            \begingroup
+              \hfil{\namesize\bf \@name}\hfil
+              \nameskip\break
+            \endgroup
+          }
+          \makeatother
           \name{Sunwoo Kwak}
           \address{\href{https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en}{Google Scholar} / \href{https://sunwookwak-polisci.github.io/}{Website}}
-          \address{Sinchon-dong, Seodaemun-gu, Seoul, Republic of Korea}
+          \address{\href{mailto:sunwookwak@gmail.com}{sunwookwak@gmail.com}}
 ---
 
 \begin{center}
-(Updated: August 16, 2026)
+(Updated: September 17, 2026)
 \end{center}
 
 ```{=latex}
 \begin{rSection}{Education}
-```
 
-**M.A. in Political Science** \hfill 2026\
-Department of Political Science, Yonsei University
+\newcommand{\edudetail}[2]{%
+  \par\vspace{0.12em}%
+  \noindent\hspace{1em}%
+  \begin{minipage}[t]{\dimexpr\linewidth-1em-4.5em\relax}
+    \settowidth{\dimen0}{\textit{#1: }}%
+    \hangindent=\dimen0\hangafter=1\raggedright
+    \textit{#1: }#2
+  \end{minipage}\par
+}
 
-**B.A. in Political Science and International Relations** \hfill 2025\
-Underwood International College, Yonsei University
+\textbf{Incoming Ph.D.\ Student, Department of Politics, Princeton University} \hfill \textit{beginning September 2027}
 
-```{=latex}
+\vspace{0.45em}
+
+\textbf{M.A., Department of Political Science, Yonsei University} \hfill \textit{2026}
+\edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
+
+\vspace{0.45em}
+
+\textbf{B.A., Underwood International College, Yonsei University} \hfill \textit{2025}
+\edudetail{Major}{Political Science and International Relations}
+
 \end{rSection}
 ```
+
 
 ```{=latex}
 \begin{rSection}{RESEARCH INTERESTS}
 ```
 
-- **American Politics**
-- **Legislative Studies**
-- **Congress**
-- **Elections**
-- **Public Opinion**
+American Politics · Legislative Politics (Congress) · Elections · Public Opinion · Korean Politics
+
 
 
 ```{=latex}
@@ -63,11 +83,11 @@ Underwood International College, Yonsei University
 \begin{rSection}{PUBLICATIONS}
 ```
 
-1. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
+1. **Kwak, Sunwoo**, Eunmi Cho, and Sinjae Kang. 2026. "Who Controls the Legislative Process? Party Cartels, Committee Gatekeepers, and Subcommittee Activity in the South Korean National Assembly." *Legislative Studies Quarterly*, 51(2): e70072.
 
-1. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
+2. Kang, Sinjae, **Sunwoo Kwak**, and Jeongmin Lee. 2025. "Did the 2019 Revision of the National Assembly Act Revitalize Subcommittees? Analyzing the Frequency and Scheduling Determinants of Bill Review Subcommittee Meetings." *Legislation and Policy Studies*, 17(1): 5--36. [in Korean]
 
-2. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
+3. Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. 2024. "Who Mentions the Region?: Analyzing Geographical Representation through Parliamentary Speeches." *Journal of Parliamentary Research*, 19(2): 5--42. [in Korean]
 
 ```{=latex}
 \end{rSection}
@@ -84,22 +104,20 @@ Underwood International College, Yonsei University
 ```{=latex}
 \end{rSection}
 
-\clearpage
-
-\begin{rSection}{PRESENTATIONS}
+\begin{rSection}{CONFERENCE PRESENTATIONS}
 ```
 
-American Political Science Association (APSA) Annual Conference \hfill \textit{2025}
+American Political Science Association (APSA) Annual Meeting \hfill \textit{2025}
 
 Midwest Political Science Association (MPSA) Annual Conference \hfill \textit{2025}
 
-International Political Science Association (IPSA) Annual Conference \hfill \textit{2025}
+International Political Science Association (IPSA) World Congress \hfill \textit{2025}
 
-International Studies Association (ISA) Annual Conference \hfill \textit{2025}
+International Studies Association (ISA) Annual Convention \hfill \textit{2025}
 
-World Association of Public Opinion Research (WAPOR) Annual Conference \hfill \textit{2024}
+World Association for Public Opinion Research (WAPOR) Annual Conference \hfill \textit{2024}
 
-World Association of Public Opinion Research (WAPOR) Asia Pacific Annual Conference \hfill \textit{2025}
+World Association for Public Opinion Research (WAPOR) Asia Pacific Annual Conference \hfill \textit{2025}
 
 Korean Political Science Association (KPSA) Annual Conference \hfill \textit{2023, 2024}
 
@@ -115,13 +133,13 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 **Graduate**
 
-- Awarded Best Paper Award by the Yonsei University Graduate Student Association Academic Support Program (November 2025)
+- Best Paper Award, Yonsei University Graduate Student Association Academic Support Program (November 2025)
    - "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions"
 
 
 **Undergraduate**
 
-- Awarded Highest Honors Scholarship (Spring 2023, Fall 2023, Spring 2024, Fall 2024)
+- Highest Honors Scholarship (Spring 2023, Fall 2023, Spring 2024, Fall 2024)
 
 ```{=latex}
 \end{rSection}
@@ -142,7 +160,7 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 **Lab Member** (Department of Political Science, Yonsei University)
 
-- Applied Political Methodology Lab (Fall 2024--Spring 2026)
+- Applied Political Methodology Lab (Fall 2024--Spring 2026; Lab Manager: Fall 2025--Spring 2026)
 
 - Qualities of Democracy Lab (Fall 2023--Spring 2026)
 
@@ -155,7 +173,7 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 **Workshop and Program Participation**
 
 - "2025 Summer Institute in Computational Social Science in Korea (SICSS-Korea)" organized by KDI School of Public Policy and Management and KAIST.
-- "2024 Summer Methods Workshop" organized by Korea Association of Party Studies (KAPS).
+- "2024 Summer Methods Workshop" organized by Korean Association of Party Studies (KAPS).
 
 
 **Related Coursework**
