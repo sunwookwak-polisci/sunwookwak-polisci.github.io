@@ -23,5 +23,6 @@ format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
+    toc: false
     linestretch: 2
+    mainfont: Libre Baskerville

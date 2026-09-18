@@ -1,3 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+
+:root {
+  --bs-font-sans-serif: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+  --bs-body-font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+}
+
+html {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+}
+
 /* Site-wide: keep default Quarto/theme styling. */
 
 /* Research page: compact academic bibliography layout */
@@ -17,7 +28,7 @@ body.research-page .page-updated {
 
 body.research-page h2 {
   font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.01em;
   border-bottom: 1px solid #d8dce0;
   padding-bottom: 0.35rem;
@@ -57,7 +68,7 @@ body.research-page .work-item.no-year {
 body.research-page .work-year {
   color: #5c636a;
   font-variant-numeric: tabular-nums;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.55;
 }
 

@@ -1,6 +1,6 @@
 ---
 title: Sunwoo Kwak
-linestretch: 2
+linestretch: 1.5
 ---
 
 ### About Me
@@ -12,8 +12,8 @@ I received my M.A. in Political Science from Yonsei University in August 2026. I
 So far, my research has been published in *[Legislative Studies Quarterly](https://doi.org/10.1111/lsq.70072)*, as well as in journals in Korean.
 
 ### CV
-- [click this link to view and download my CV](cv.html)
+- [Link](cv.html)
 
 ### Contacts
-- Email: [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr) or [sunwookwak@gmail.com](mailto:sunwookwak@gmail.com)
+- Email: [sunwookwak@gmail.com](mailto:sunwookwak@gmail.com) (preferred) or [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr)
 - Google Scholar: [Sunwoo Kwak's Profile](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
