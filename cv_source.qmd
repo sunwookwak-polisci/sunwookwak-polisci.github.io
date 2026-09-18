@@ -35,12 +35,10 @@ format:
 ---
 
 \begin{center}
-(Updated: September 17, 2026)
+(Updated: September 18, 2026)
 \end{center}
 
 ```{=latex}
-\begin{rSection}{Education}
-
 \newcommand{\edudetail}[2]{%
   \par\vspace{0.12em}%
   \noindent\hspace{1em}%
@@ -50,6 +48,8 @@ format:
     \textit{#1: }#2
   \end{minipage}\par
 }
+
+\begin{rSection}{Education}
 
 \textbf{Incoming Ph.D.\ Student, Department of Politics, Princeton University} \hfill \textit{beginning September 2027}
 
@@ -103,6 +103,8 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 
 "Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
 
+\clearpage
+
 ```{=latex}
 \end{rSection}
 
@@ -131,75 +133,48 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 \end{rSection}
 
 \begin{rSection}{AWARDS \& HONORS}
-```
 
-**Graduate**
+Dissertation Fellowship, Idea Incubation Fund, Yonsei University Graduate School \hfill \textit{2026}
+\edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
 
-- Best Paper Award, Yonsei University Graduate Student Association Academic Support Program (November 2025)
-   - "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions"
+Best Paper Award, Academic Support Program, Yonsei University GSA \hfill \textit{2025}
+\edudetail{Paper}{``Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions''}
 
+Highest Honors Scholarship, Yonsei University (Undergraduate) \hfill \textit{2023-1, 2023-2, 2024-1, 2024-2}
 
-**Undergraduate**
-
-- Highest Honors Scholarship (Spring 2023, Fall 2023, Spring 2024, Fall 2024)
-
-```{=latex}
 \end{rSection}
 
 \begin{rSection}{TEACHING EXPERIENCE}
-```
 
-**Graduate Teaching Assistant** (Department of Political Science, Yonsei University)
+Teaching Assistant, Applied Data Analysis, Yonsei University \hfill \textit{Spring 2025}
 
-- Applied Data Analysis (Spring 2025)
-- Method of Empirical Research (Spring 2025)
+Teaching Assistant, Method of Empirical Research, Yonsei University \hfill \textit{Spring 2025}
 
-```{=latex}
 \end{rSection}
 
 \begin{rSection}{RESEARCH EXPERIENCE}
-```
 
-**Lab Member** (Department of Political Science, Yonsei University)
+Applied Political Methodology Lab, Yonsei University \hfill \textit{2024--2026 (Lab Manager, 2025--2026)}
 
-- Applied Political Methodology Lab (Fall 2024--Spring 2026; Lab Manager: Fall 2025--Spring 2026)
+Qualities of Democracy Lab, Yonsei University \hfill \textit{2023--2026}
 
-- Qualities of Democracy Lab (Fall 2023--Spring 2026)
-
-```{=latex}
 \end{rSection}
 
 \begin{rSection}{METHODS TRAINING}
-```
 
-**Workshop and Program Participation**
+Summer Institute in Computational Social Science (SICSS-Korea), KDI School and KAIST \hfill \textit{2025}
 
-- "2025 Summer Institute in Computational Social Science in Korea (SICSS-Korea)" organized by KDI School of Public Policy and Management and KAIST.
-- "2024 Summer Methods Workshop" organized by Korean Association of Party Studies (KAPS).
+Summer Methods Workshop, Korean Association of Party Studies \hfill \textit{2024}
 
-
-**Related Coursework**
-
-- "Special Topics in Political Methodology" (Spring 2025)
-- "Advanced Method of Empirical Research" (Fall 2024)
-- "Research Methods in Political Science" (Fall 2024)
-- "Applied Data Analysis" (Spring 2023)
-
-```{=latex}
 \end{rSection}
 
-\begin{rSection}{COMPUTATIONAL SKILLS}
-```
-**R, Python, LaTeX, Quarto**
+\begin{rSection}{LANGUAGE AND COMPUTATIONAL SKILLS}
 
-```{=latex}
-\end{rSection}
+Languages: English (Fluent), Korean (Native)
 
-\begin{rSection}{LANGUAGES}
-```
-**Korean** (Native), **English** (Fluent)
+Computational Skills: R, Python, LaTeX, Quarto
 
-```{=latex}
 \end{rSection}
 ```
+
 
