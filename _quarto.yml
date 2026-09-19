@@ -26,3 +26,4 @@ format:
     toc: false
     linestretch: 2
     mainfont: Libre Baskerville
+    fontsize: 16px

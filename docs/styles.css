@@ -3,6 +3,7 @@
 :root {
   --bs-font-sans-serif: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
   --bs-body-font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+  --bs-root-font-size: 16px;
 }
 
 html {
