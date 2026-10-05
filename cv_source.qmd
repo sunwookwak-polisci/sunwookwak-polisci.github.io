@@ -35,7 +35,7 @@ format:
 ---
 
 \begin{center}
-(Updated: September 18, 2026)
+(Updated: October 5, 2026)
 \end{center}
 
 ```{=latex}
@@ -50,10 +50,6 @@ format:
 }
 
 \begin{rSection}{Education}
-
-\textbf{Incoming Ph.D.\ Student, Department of Politics, Princeton University} \hfill \textit{beginning September 2027}
-
-\vspace{0.45em}
 
 \textbf{M.A., Department of Political Science, Yonsei University} \hfill \textit{2026}
 \edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
