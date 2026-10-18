@@ -13,7 +13,7 @@ format:
 
 <p class="research-interests">American Politics · Legislative Politics (Congress) · Elections · Public Opinion · Korean Politics</p>
 
-## Publications
+## Peer-Reviewed Journal Articles
 
 ### In English
 
@@ -91,15 +91,31 @@ Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. "Who Mention
 
 :::
 
-## Working Papers
+## Peer-Reviewed Conference Proceedings
 
 ::: {.work-list}
 
-::: {.work-item .no-year}
+:::: {.work-group}
+
+::: {.work-year}
+2026
+:::
+
+::::: {.work-entries}
+
 ::: {.work-body}
-"Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
+Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Taegyoon Kim, and Jisung Yoon. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026). Forthcoming.
 :::
+
+:::::
+
+::::
+
 :::
+
+## Working Papers
+
+::: {.work-list}
 
 ::: {.work-item .no-year}
 ::: {.work-body}
