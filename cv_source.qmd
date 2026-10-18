@@ -76,7 +76,7 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 ```
 
 ```{=latex}
-\begin{rSection}{PUBLICATIONS}
+\begin{rSection}{PEER-REVIEWED JOURNAL ARTICLES}
 ```
 
 \textit{In English}
@@ -94,11 +94,17 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 ```{=latex}
 \end{rSection}
 
+\begin{rSection}{PEER-REVIEWED CONFERENCE PROCEEDINGS}
+```
+
+1. Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Taegyoon Kim, and Jisung Yoon. 2026. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026). Forthcoming.
+
+```{=latex}
+\end{rSection}
+
 
 \begin{rSection}{WORKING PAPERS}
 ```
-"Who are the People? A Computational History of Democracy" (with Hyeongjae Lee, Seonwoo Ahn, Jisung Yoon, June Jeon, and Taegyoon Kim)
-
 "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
 
 "Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
