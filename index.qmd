@@ -2,6 +2,9 @@
 title: Sunwoo Kwak
 linestretch: 1.5
 description: "Sunwoo Kwak is a political scientist studying American and Korean politics, including legislative politics, elections, and public opinion."
+include-in-header:
+  text: |
+    <meta name="google-site-verification" content="MjToK3xIL49Fq8q0QnVL4zkVz8HgIx4nUmxKr1HWUko" />
 ---
 
 ### About Me
