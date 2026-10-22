@@ -192,3 +192,8 @@ body.research-page .conf-year {
     gap: 0.1rem;
   }
 }
+
+/* Page descriptions are for search engines (meta tag) only, not shown on the page */
+#title-block-header .description {
+  display: none;
+}

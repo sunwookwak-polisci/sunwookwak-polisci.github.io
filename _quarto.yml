@@ -9,6 +9,7 @@ project:
 
 website:
   title: "Sunwoo Kwak's Website"
+  site-url: https://sunwookwak-polisci.github.io
   search: false
   navbar:
     right:
