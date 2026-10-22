@@ -144,7 +144,7 @@ Dissertation Fellowship, Idea Incubation Fund, Yonsei University Graduate School
 \edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
 
 Best Paper Award, Academic Support Program, Yonsei University GSA \hfill \textit{2025}
-\edudetail{Paper}{``Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions''}
+\edudetail{Working Paper}{``Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions''}
 
 Highest Honors Scholarship, Yonsei University (Undergraduate) \hfill \textit{2023-1, 2023-2, 2024-1, 2024-2}
 
