@@ -11,7 +11,7 @@ include-in-header:
 
 I am a political scientist studying American and Korean politics. My research interests include legislative politics (Congress), elections, and public opinion.
 
-I received my M.A. in Political Science from Yonsei University in August 2026.
+I am currently a Visiting Researcher at the Institute of East and West Studies, Yonsei University. I received my M.A. in Political Science from Yonsei University in August 2026.
 
 So far, my research has been published in *[Legislative Studies Quarterly](https://doi.org/10.1111/lsq.70072)*, as well as in journals in Korean.
 
@@ -20,4 +20,4 @@ So far, my research has been published in *[Legislative Studies Quarterly](https
 
 ### Contacts
 - Email: [sunwookwak@gmail.com](mailto:sunwookwak@gmail.com) (preferred) or [sunwookwak@yonsei.ac.kr](mailto:sunwookwak@yonsei.ac.kr)
-- Google Scholar: [Sunwoo Kwak's Profile](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=c22rzSYAAAAJ&hl=en)

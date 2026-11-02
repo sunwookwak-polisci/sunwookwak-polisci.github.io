@@ -35,7 +35,7 @@ format:
 ---
 
 \begin{center}
-(Updated: October 18, 2026)
+(Updated: November 2, 2026)
 \end{center}
 
 ```{=latex}
@@ -48,6 +48,12 @@ format:
     \textit{#1: }#2
   \end{minipage}\par
 }
+
+\begin{rSection}{CURRENT AFFILIATION}
+
+\textbf{Visiting Researcher, Institute of East and West Studies, Yonsei University} \hfill \textit{2026--present}
+
+\end{rSection}
 
 \begin{rSection}{Education}
 
@@ -102,14 +108,13 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 ```{=latex}
 \end{rSection}
 
+\clearpage
 
 \begin{rSection}{WORKING PAPERS}
 ```
 "Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions" (with Eunmi Cho)
 
 "Mentioning Party Labels in Campaign Ads: Changing Campaign Behavior under a Polarized and Nationalized Context" (with Kyungrim Chung and Yoojin Kim)
-
-\clearpage
 
 ```{=latex}
 \end{rSection}
