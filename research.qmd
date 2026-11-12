@@ -7,7 +7,7 @@ format:
     body-classes: research-page
 ---
 
-<p class="page-updated">Updated October 18, 2026</p>
+<p class="page-updated">Updated November 13, 2026</p>
 
 ## Research Interests
 
@@ -104,7 +104,9 @@ Terashita, Kazuhiro, Eunmi Cho, Juhyeon Jeong, and **Sunwoo Kwak**. "Who Mention
 ::::: {.work-entries}
 
 ::: {.work-body}
-Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Taegyoon Kim, and Jisung Yoon. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026). Forthcoming.
+Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Jisung Yoon, and Taegyoon Kim. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026), 20314--20325. <a class="work-link" href="https://aclanthology.org/2026.emnlp-main.879/" title="ACL Anthology" aria-label="ACL Anthology"><i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+
+<span class="work-note">SAC Highlight Award, EMNLP 2026</span>
 :::
 
 :::::

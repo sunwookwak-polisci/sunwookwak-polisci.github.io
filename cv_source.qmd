@@ -35,7 +35,7 @@ format:
 ---
 
 \begin{center}
-(Updated: November 2, 2026)
+(Updated: November 13, 2026)
 \end{center}
 
 ```{=latex}
@@ -103,12 +103,13 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 \begin{rSection}{PEER-REVIEWED CONFERENCE PROCEEDINGS}
 ```
 
-1. Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Taegyoon Kim, and Jisung Yoon. 2026. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026). Forthcoming.
+1. Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Jisung Yoon, and Taegyoon Kim. 2026. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026), 20314--20325. [doi.org/10.18653/2026.emnlp-main.879](https://doi.org/10.18653/2026.emnlp-main.879)
 
 ```{=latex}
 \end{rSection}
 
 \clearpage
+\setlength{\parskip}{0.25em}
 
 \begin{rSection}{WORKING PAPERS}
 ```
@@ -144,6 +145,9 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 \end{rSection}
 
 \begin{rSection}{AWARDS \& HONORS}
+
+SAC Highlight Award, EMNLP \hfill \textit{2026}
+\edudetail{Coauthored Paper}{``Who Counts as `the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models''}
 
 Dissertation Fellowship, Idea Incubation Fund, Yonsei University Graduate School \hfill \textit{2026}
 \edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
