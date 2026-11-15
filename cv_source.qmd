@@ -40,13 +40,15 @@ format:
 
 ```{=latex}
 \newcommand{\edudetail}[2]{%
-  \par\vspace{0.12em}%
+  \par\nopagebreak\vspace{-\parskip}\vspace{0.15em}%
   \noindent\hspace{1em}%
   \begin{minipage}[t]{\dimexpr\linewidth-1em-4.5em\relax}
     \settowidth{\dimen0}{\textit{#1: }}%
     \hangindent=\dimen0\hangafter=1\raggedright
-    \textit{#1: }#2
+    \textit{#1: }#2\par
+    \xdef\edudetailprevdepth{\the\prevdepth}%
   \end{minipage}\par
+  \prevdepth=\edudetailprevdepth\relax
 }
 
 \begin{rSection}{CURRENT AFFILIATION}
