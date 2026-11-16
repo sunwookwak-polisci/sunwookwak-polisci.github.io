@@ -7,7 +7,7 @@ format:
     body-classes: research-page
 ---
 
-<p class="page-updated">Updated November 13, 2026</p>
+<p class="page-updated">Updated November 16, 2026</p>
 
 ## Research Interests
 
