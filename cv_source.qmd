@@ -11,6 +11,7 @@ format:
           \usepackage{atenddvi}
           \usepackage{hyperref}
           \usepackage{enumitem}
+          \setlist[enumerate]{itemsep=0.25em}
           \usepackage{lastpage}
           \usepackage{fancyhdr}
           \pagestyle{fancy}
@@ -110,15 +111,15 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 1. Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Jisung Yoon, and Taegyoon Kim. 2026. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026), 20314--20325. [doi.org/10.18653/2026.emnlp-main.879](https://doi.org/10.18653/2026.emnlp-main.879)
 
    ```{=latex}
-   \par\nopagebreak\vspace{-\parskip}
-   \noindent{\cvdetailfont SAC Highlight Award, EMNLP\par}
+   \par\nopagebreak\vspace{-\parskip}\vspace{0.3em}
+   \noindent\hspace{1.5em}{\cvdetailfont\textit{- SAC Highlight Award, ENMLP 2026}\par}
    ```
 
 ```{=latex}
 \end{rSection}
 
 \clearpage
-\setlength{\parskip}{0.25em}
+\setlength{\parskip}{0.4em}
 
 \begin{rSection}{WORKING PAPERS}
 ```
@@ -155,7 +156,7 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 \begin{rSection}{AWARDS \& HONORS}
 
-\textbf{SAC Highlight Award}, EMNLP \hfill \textit{2026}
+\textbf{SAC Highlight Award}, EMNLP 2026 \hfill \textit{2026}
 \edudetail[\cvdetailfont]{Coauthored Paper}{``Who Counts as `the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models''}
 
 \vspace{0.4em}
