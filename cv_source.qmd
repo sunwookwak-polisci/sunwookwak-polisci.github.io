@@ -39,13 +39,15 @@ format:
 \end{center}
 
 ```{=latex}
-\newcommand{\edudetail}[2]{%
+\newcommand{\cvdetailfont}{\fontsize{10pt}{12.5pt}\selectfont\mdseries}
+\newcommand{\edudetail}[3][]{%
   \par\nopagebreak\vspace{-\parskip}\vspace{0.15em}%
   \noindent\hspace{1em}%
   \begin{minipage}[t]{\dimexpr\linewidth-1em-4.5em\relax}
-    \settowidth{\dimen0}{\textit{#1: }}%
+    #1%
+    \settowidth{\dimen0}{\textit{#2: }}%
     \hangindent=\dimen0\hangafter=1\raggedright
-    \textit{#1: }#2\par
+    \textit{#2: }#3\par
     \xdef\edudetailprevdepth{\the\prevdepth}%
   \end{minipage}\par
   \prevdepth=\edudetailprevdepth\relax
@@ -107,6 +109,11 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 
 1. Lee, Hyeongjae, Seonwoo Ahn, **Sunwoo Kwak**, June Jeon, Jisung Yoon, and Taegyoon Kim. 2026. "Who Counts as 'the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models." In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing* (EMNLP 2026), 20314--20325. [doi.org/10.18653/2026.emnlp-main.879](https://doi.org/10.18653/2026.emnlp-main.879)
 
+   ```{=latex}
+   \par\nopagebreak\vspace{-\parskip}
+   \noindent{\cvdetailfont SAC Highlight Award, EMNLP\par}
+   ```
+
 ```{=latex}
 \end{rSection}
 
@@ -148,22 +155,22 @@ Korean Political Science Association (KPSA) Summer Conference \hfill \textit{202
 
 \begin{rSection}{AWARDS \& HONORS}
 
-SAC Highlight Award, EMNLP \hfill \textit{2026}
-\edudetail{Coauthored Paper}{``Who Counts as `the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models''}
+\textbf{SAC Highlight Award}, EMNLP \hfill \textit{2026}
+\edudetail[\cvdetailfont]{Coauthored Paper}{``Who Counts as `the People'? Measuring Contested Political Concepts from Political Speech using Masked Language Models''}
 
 \vspace{0.4em}
 
-Dissertation Fellowship, Idea Incubation Fund, Yonsei University Graduate School \hfill \textit{2026}
-\edudetail{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
+\textbf{Dissertation Fellowship}, Idea Incubation Fund, Yonsei University Graduate School \hfill \textit{2026}
+\edudetail[\cvdetailfont]{Thesis}{``Ideological Primary Challenges and Bipartisan Cosponsorship in the U.S.\ House: Strategic Retreat Among Challenged Incumbents''}
 
 \vspace{0.4em}
 
-Best Paper Award, Academic Support Program, Yonsei University GSA \hfill \textit{2025}
-\edudetail{Working Paper}{``Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions''}
+\textbf{Best Paper Award}, Academic Support Program, Yonsei University GSA \hfill \textit{2025}
+\edudetail[\cvdetailfont]{Working Paper}{``Economic Agendas in Governors' Speeches Using Text as Data: Impact of Electoral and Institutional Conditions''}
 
 \vspace{0.4em}
 
-Highest Honors Scholarship, Yonsei University (Undergraduate) \hfill \textit{2023-1, 2023-2, 2024-1, 2024-2}
+\textbf{Highest Honors Scholarship}, Yonsei University (Undergraduate) \hfill \textit{2023-1, 2023-2, 2024-1, 2024-2}
 
 \end{rSection}
 
