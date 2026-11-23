@@ -112,7 +112,7 @@ American Politics · Legislative Politics (Congress) · Elections · Public Opin
 
    ```{=latex}
    \par\nopagebreak\vspace{-\parskip}\vspace{0.3em}
-   \noindent\hspace{1.5em}{\cvdetailfont\textit{- SAC Highlight Award, ENMLP 2026}\par}
+   \noindent\hspace{1.5em}{\cvdetailfont\textit{- SAC Highlight Award, EMNLP 2026}\par}
    ```
 
 ```{=latex}
