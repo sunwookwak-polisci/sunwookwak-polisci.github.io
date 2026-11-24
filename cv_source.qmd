@@ -195,7 +195,7 @@ Qualities of Democracy Lab, Yonsei University \hfill \textit{2023--2026}
 
 Summer Institute in Computational Social Science (SICSS-Korea), KDI School and KAIST \hfill \textit{2025}
 
-Summer Methods Workshop, Korean Association of Party Studies \hfill \textit{2024}
+Summer Methods Workshop, Korean Association of Party Studies \hfill \textit{2024, 2025}
 
 \end{rSection}
 
