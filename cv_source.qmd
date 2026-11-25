@@ -36,7 +36,7 @@ format:
 ---
 
 \begin{center}
-(Updated: November 16, 2026)
+(Updated: November 25, 2026)
 \end{center}
 
 ```{=latex}

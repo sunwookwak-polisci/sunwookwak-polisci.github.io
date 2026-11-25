@@ -34,3 +34,6 @@ docs/search.json
 *.bbl
 *.blg
 *.xdv
+
+/.quarto/
+**/*.quarto_ipynb
