@@ -37,3 +37,6 @@ docs/search.json
 
 /.quarto/
 **/*.quarto_ipynb
+
+# LSE-only CV copy (local, not tracked)
+/LSE_CV/
